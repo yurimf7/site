@@ -1,0 +1,4 @@
+2.GRANDEZAS ELÉTRICAS
+2.1 Potência elétrica
+2.2 Tensão elétrica
+2.3 Corrente elétrica

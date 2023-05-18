@@ -1,0 +1,17 @@
+3 UNIDADES DE MEDIDA
+UTILIZADAS NA INFORMÁTICA
+3.1 Capacidade de armazenamento
+3.1.1 bit
+3.1.2 Byte
+3.1.3 Múltiplos
+3.2 Frequência
+3.2.1 Hert
+3.2.2 Múltiplos
+3.3 Largura de banda
+3.3.1 Capacidade do canal
+3.3.2 bit/seg (bps)
+3.3.3 Múltiplos
+3.4 Taxa de transferência
+3.4.1 Tráfego no canal
+3.4.2 Byte/seg (Bps)
+3.4.3 Múltiplos
